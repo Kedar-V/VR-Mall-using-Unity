@@ -7,7 +7,7 @@
 - [Overview](#Overview)
 - [Objective](#Objective)
 - [Result](#Result)
-- [Technologies Used](#Technologies-Used)
+- [Tools](#Tools)
 
 ## Overview
 Fast fashion has caused a massive increase in the rate at which new trends are set.
