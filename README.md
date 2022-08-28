@@ -6,11 +6,7 @@
 ## Table of Contents
 - [Overview](#Overview)
 - [Objective](#Objective)
-- [Procedure](#Procedure)
-     *  [Trend Prediction](#Trend-Prediction)
-     *  [Semantic Segmentation](#Semantic-Segmentation)
-     *  [Attribute Recognition](#Attribute-Recognition)
-- [Results](#Results)
+- [Result](#Result)
 - [Technologies Used](#Technologies-Used)
 
 ## Overview
@@ -22,7 +18,7 @@ As a result it is getting difficult for the average consumer to select apparels 
 
 The problem is further elevated by the lack of interaction with the product which exists in traditional shopping, since it is difficult to choose a apparel without trial.
 
-## Snapshot of the finished product
+## Result
 <a href="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/VRMallPPT.pdf" class="image fit" ><img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/entrance.png" alt=""></a>
 
 ## Tools
