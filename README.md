@@ -27,6 +27,6 @@ The problem is further elevated by the lack of interaction with the product whic
 
 ## Tools
 
-<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/Unity.png" width="100"/>
-<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/Blender.png" width="100"/>
-<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/marvelous-designer-logo.png" width="100"/>
+<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/Unity.png" width="300"/>
+<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/Blender.png" width="300"/>
+<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/marvelous-designer-logo.png" width="300"/>
