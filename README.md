@@ -24,3 +24,9 @@ The problem is further elevated by the lack of interaction with the product whic
 
 ## Snapshot of the finished product
 <a href="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/VRMallPPT.pdf" class="image fit" ><img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/entrance.png" alt=""></a>
+
+## Tools
+
+<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/Unity.png" width="100"/>
+<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/Blender.png" width="100"/>
+<img src="https://github.com/Kedar-V/VR-Mall-using-Unity/blob/main/img_vr/marvelous-designer-logo.png" width="100"/>
